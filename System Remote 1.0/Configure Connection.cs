@@ -10,11 +10,32 @@ using System.Windows.Forms;
 
 namespace System_Remote_1._0
 {
-    public partial class Configure_Connection : Form
+    public partial class configureconnection : Form
     {
-        public Configure_Connection()
+        public configureconnection()
         {
             InitializeComponent();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Username_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+
+
+
     }
 }
